@@ -21,7 +21,7 @@ It analyzes temperature, humidity, and weather conditions to give practical clot
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-<img src="1.png" width="700">
+<img src="3.png" width="700">
 
 ---
 
@@ -31,7 +31,7 @@ It analyzes temperature, humidity, and weather conditions to give practical clot
 ---
 
 ### 🔹 Feedback & Recommendations
-<img src="3.png" width="700">
+<img src="1.png" width="700">
 
 ---
 
@@ -58,8 +58,8 @@ Open app.js and replace:
 
 const OPENWEATHER_KEY = "YOUR_API_KEY_HERE";
 
-with your OpenWeather API key.
+ with your OpenWeather API key.
 
 4️⃣ Run the project
 
-You can open index.html directly or use Live Server (recommended).
+You can open weatherapp.html directly or use Live Server (recommended).
