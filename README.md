@@ -54,7 +54,7 @@ git clone https://github.com/Pallaini-Bhargavi/Weather_Wardrobe_Advisor.git
 cd Weather_Wardrobe_Advisor
 
 ### 3️⃣ Add your API key
-Open app.js and replace:
+Open weatherapp.js and replace:
 
 const OPENWEATHER_KEY = "YOUR_API_KEY_HERE";
 
